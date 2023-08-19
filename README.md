@@ -4,4 +4,4 @@ Repositório dos curso de Introdução  ao Desenvolvimento WEB - HTML e CSS
 <p> 💻 Lista de <a href="https://github.com/tatycalixto/introducao-html-css/tree/main/aula01"> Exercício 01 </a>  :white_check_mark: </p>
 
 # Mini-Projetos
-<p> 💻Mini-Projeto - Aula 01 <a href="https://github.com/tatycalixto/introducao-html-css/tree/main/aula02"> Currículo </a> :white_check_mark: </p>
+<p> 💻Mini-Projeto - Aula 01 <a href="https://github.com/tatycalixto/introducao-html-css/tree/main/aula02"> Currículo e Pratos </a> :white_check_mark: </p>
