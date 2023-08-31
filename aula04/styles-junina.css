@@ -1,0 +1,31 @@
+/* Cabeçalho */
+.site-title1 {
+    color: #c0392b;
+}
+.site-title2 {
+    background-color: #ffeecc;
+}
+
+/* Seção "Receitas Juninas" */
+.recipe-title {
+    color: #333;
+}
+.recipe-card {
+    border-radius: 8px;
+    padding: 20px;
+    margin: 10px;
+}
+.recipe-card.canjica {
+    background-color: #f0e68c;
+}
+.recipe-card.munguza {
+    background-color: #f5deb3;
+}
+
+.recipe-card:hover {
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+}
+.cartao{
+    
+
+}
